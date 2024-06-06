@@ -9,8 +9,8 @@ Welcome to my portfolio where I document a summary of my projects.
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🌎 [Global Health]() | December 2023 | R, Supervised Machine Learning, Unsupervised Machine Learning, Health Analysis | Developed machine learning models to address global health challenges like heart disease, HIV infection rates, and AIDS death rates. Leveraged and compared diverse predictive models, offering insights for proactive public health strategies. |
-| 🛏️ [Hotel Booking Cancellations]() | Mar 2024 | R, Supervised Machine Learning, Neural Networks, Artificial Intelligence, Business Analytics | Implemented predictive analytics to address escalating hotel booking cancellation rates. Utilized baseline models like Logistic Regression and K-Nearest Neighbors to establish benchmarks, followed by the development of a complex neural network model, providing actionable insights for proactive management of room inventory and resource allocation. |
+| 🌎 [Global Health](https://github.com/adelinecasali4/Machine-Learning/tree/461eaf79e76673b5a97b50c5ec0dcd5265146d2b/Global%20Health) | December 2023 | R, Supervised Machine Learning, Unsupervised Machine Learning, Health Analysis | Developed machine learning models to address global health challenges like heart disease, HIV infection rates, and AIDS death rates. Leveraged and compared diverse predictive models, offering insights for proactive public health strategies. |
+| 🛏️ [Hotel Booking Cancellations](https://github.com/adelinecasali4/Machine-Learning/tree/461eaf79e76673b5a97b50c5ec0dcd5265146d2b/Hotel%20Booking%20Cancellations) | Mar 2024 | R, Supervised Machine Learning, Neural Networks, Artificial Intelligence, Business Analytics | Implemented predictive analytics to address escalating hotel booking cancellation rates. Utilized baseline models like Logistic Regression and K-Nearest Neighbors to establish benchmarks, followed by the development of a complex neural network model, providing actionable insights for proactive management of room inventory and resource allocation. |
 
 ***
 
